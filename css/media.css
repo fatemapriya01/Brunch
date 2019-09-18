@@ -1,0 +1,505 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*banner start*/
+	.banner{
+		padding-top: 10px;
+	}
+	.menu ul li a{
+		font-size: 20px;
+	}
+	.box {
+	    width: 253px;
+	    margin-top: 20px;
+	    margin-bottom: 20px;
+	    margin-left: 20px;
+	    padding: 20px 0;
+	}
+	.box h1{
+		font-size: 39px;
+	}
+	.box h2{
+		font-size: 25px;
+	}
+	.banner-btn{
+		font-size: 10px;
+		margin-top: 11px;
+	}
+	/*banner end*/
+	/*flavour start*/
+	.flavour {
+	    margin: 50px 0;
+	}
+	.flavour-text {
+	    margin-top: 0;
+	    text-align: center;
+	}
+	.flavour-text h1 {
+	    font-size: 19px;
+	    margin-bottom: 15px;
+	}
+	.flavour-text p {
+	    font-size: 16px;
+	}
+	.flavour-img{
+		margin-top: 10px;
+	}
+	/*flavour end*/
+    /*taste start*/
+    .taste {
+        padding: 50px 0;
+    }
+    .s-item{
+    	margin-top: 20px;
+    }
+    .s-item h1{
+    	margin-bottom: 15px;
+    }
+    /*taste end*/
+    	/*india start*/
+	.india{
+		background-image: none;
+		padding: 30px 0;
+	}
+	.c-h1 {
+		font-size: 60px;
+	    padding-top: 15px;
+	}
+	.c-h2 {
+		font-size: 36px;
+	    margin-bottom: 20px;
+	}
+	.box2-h1 {
+		font-size: 15px;
+	    padding-top: 36px;
+	    margin-bottom: 2px;
+	}
+	.box2-p {
+		font-size: 12px;
+        margin-bottom: 2px;
+    }
+	
+	/*india end*/
+	/*traditional start*/
+	.traditional {
+		background-image: none;
+	    background-color: rgba(218,220,221,0.9);
+	    padding: 27px 0 20px 0;
+	}
+	.t-h1 {
+		font-size: 19px;
+	    margin-bottom: 10px;
+	}
+	.t-p {	    
+	    font-size: 13px;
+	    margin-bottom: 15px;
+	}
+	.t-list1 {
+	    margin-bottom: 15px;
+	}
+	.circle2 {
+	    width: 18px;
+	    height: 18px;
+	}
+	.t-list2 li a {
+	    font-size: 16px;
+	    padding: 0px 5px !important;
+	}
+	/*traditional end*/
+    /*discover start*/
+    .discover{
+    	background-image: none;
+    }
+    .box3 {
+        margin-top: 20px;
+    }
+    .circle3 {
+    	width: 80px;
+        height: 80px;
+        margin-bottom: 15px;
+      
+    }
+    .circle3-txt h1 {
+        margin-bottom: 10px;
+    }
+    .circle3-txt p {
+        margin-bottom: 30px;
+    }
+    /*discover end*/
+      /*book start*/
+      .form-c{
+      	width: 100%;
+      }
+      .fd-c{
+      	width: 100%;
+      }
+	.book-button{
+		margin-left: 0;
+		width: 100%;
+	}
+	/*book end*/
+	  /*social start*/
+    .s-p {
+    	font-size: 16px;
+        word-spacing: 0px;
+        letter-spacing: 0px;
+    }
+    .circle4 {
+        width: 45px;
+        height: 45px;
+        margin: 0;
+    }
+    .social-list li a {
+        font-size: 30px;
+    }
+    /*social end*/
+    /*b-card start*/
+    .b-card {
+        padding-bottom: 70px;
+    }
+	.card-m {
+	    margin: 20px 25px 0 25px;
+	}
+	.c-hr{
+       margin-bottom: 0;
+	}
+	/*b-card end*/
+	/*contact start*/
+	.contact {
+	    padding: 66px 0 66px 0;
+	}
+	.contact-h1 {
+	    font-size: 20px;
+	    text-align: center;
+	}
+	.contact-p {
+	    font-size: 16px;
+	    margin : 30px 0 40px 0;
+	    text-align: center;
+	}
+	.contact-h1-2 {
+	    font-size: 17px;
+	    margin-bottom: 20px;
+	}
+	.contact-list {
+	    font-size: 16px;
+	}
+	.contact-list2 {
+	    font-size: 16px;
+	}
+	/*contact end*/
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*banner start*/
+	.menu ul li a{
+		font-size: 25px;
+		margin-top: 10px;
+	}
+	.box {
+	    width: 506px;
+	    margin-top: 50px;
+	    margin-bottom: 50px;
+	    margin-left: 0;
+	    padding: 54px 0;
+	}
+	.box h1{
+		font-size: 86px;
+	}
+	.box h2{
+		font-size: 55px;
+	}
+	.banner-btn{
+		font-size: 30px;
+	}
+	/*banner end*/
+	/*flavour start*/
+	.flavour-text {
+	    margin-top: 0;
+	    text-align: center;
+	}
+	.flavour-text h1 {
+	   
+	    font-size: 25px;
+	    margin-bottom: 15px;
+	}
+	.flavour-text p {
+	    font-size: 17px;
+	}
+	.flavour-img{
+		margin-top: 20px;
+	}
+	/*flavour end*/
+    /*taste start*/
+    .taste {
+        padding: 60px 0;
+    }
+    .s-item{
+    	margin-top: 30px;
+    }
+    /*taste end*/
+    	/*india start*/
+	.india{
+		padding: 30px 0;
+	}
+	.c-h1 {
+		font-size: 60px;
+	    padding-top: 15px;
+	}
+	.c-h2 {
+		font-size: 37px;
+	    margin-bottom: 20px;
+	}
+	.box2-h1 {
+		font-size: 15px;
+	    padding-top: 18px;
+	    margin-bottom: 2px;
+	}
+	.box2-p {
+		font-size: 12px;
+        margin-bottom: 2px;
+    }
+	
+	/*india end*/
+	/*traditional start*/
+	.traditional {
+	    padding: 27px 0 20px 0;
+	}
+	.t-h1 {
+		font-size: 19px;
+	    margin-bottom: 10px;
+	}
+	.t-p {	    
+	    font-size: 13px;
+	    margin-bottom: 15px;
+	}
+	.t-list1 {
+	    margin-bottom: 15px;
+	}
+	.circle2 {
+	    width: 18px;
+	    height: 18px;
+	}
+	.t-list2 li a {
+	    font-size: 16px;
+	}
+	/*traditional end*/
+	/*discover start*/
+    .box3 {
+        margin-top: 112px;
+    }
+    .circle3 {
+    	width: 80px;
+        height: 80px;
+        margin-bottom: 15px;
+    }
+    .circle3-txt h1 {
+        margin-bottom: 10px;
+    }
+    .circle3-txt p {
+        margin-bottom: 30px;
+    }
+    /*discover end*/
+     /*book start*/
+	.book-button{
+		margin-left: 0;
+		width: 80%;
+	}
+	/*book end*/
+	/*b-card start*/
+	.card-m{
+		margin: 20px 40px 0 40px;
+	}
+	/*b-card end*/
+     /*social start*/
+    .s-p {
+    	font-size: 17px;
+        word-spacing: 0px;
+        letter-spacing: 0px;
+    }
+    .s-h1 {
+	     font-size: 70px;
+	 }
+    /*social end*/
+     /*contact start*/
+    .contact-list {
+        font-size: 17px;
+    }
+    .contact-p {
+        font-size: 16px;
+    }
+    .contact-list2 {
+        font-size: 17px;
+    }
+    /*contact end*/
+ 
+
+    
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*banner start*/
+	.menu ul li a{
+		font-size: 30px;
+		margin-top: 10px;
+	}
+	.box {
+	    width: 605px;
+	    margin-top: 86px;
+	    margin-bottom: 80px;
+	    margin-left: 38px;
+	    padding: 54px 0;
+	}
+	/*banner end*/
+	/*flavour start*/
+	.flavour-text {
+	    margin-top: 0px;
+	}
+	.flavour-text h1 {
+	    margin-bottom: 18px;
+	}
+	.flavour-text p {
+	    font-size: 17px;
+	}
+	/*flavour end*/
+    /*taste start*/
+    .taste {
+        padding: 70px 0;
+    }
+    /*taste end*/
+    /*india start*/
+	.india{
+		padding: 64px 0;
+	}
+	.c-h1 {
+	    padding-top: 40px;
+	}
+	.c-h2 {
+	    margin-bottom: 35px;
+	}
+	.box2-h1 {
+	    padding-top: 26px;
+	    margin-bottom: 10px;
+	}
+	.box2-p {
+        margin-bottom: 10px;
+    }
+	/*india end*/
+	/*traditional start*/
+	.traditional {
+	    padding: 15px 0 10px 0;
+	}
+	.t-h1 {
+		font-size: 20px;
+	    margin-bottom: 12px;
+	}
+	.t-p {	    
+	    font-size: 15px;
+	    margin-bottom: 20px;
+	}
+	.t-list1 {
+	    margin-bottom: 20px;
+	}
+	.circle2 {
+	    width: 20px;
+	    height: 20px;
+	}
+	/*traditional end*/
+    /*discover start*/
+    .box3 {
+        margin-top: 100px;
+    }
+    .circle3 {
+    	width: 70px;
+        height: 70px;
+        margin-bottom: 0px;
+        margin-top: 17px;
+    }
+    .circle3-txt h1 {
+        margin-bottom: 10px;
+    }
+    .circle3-txt p {
+        margin-bottom: 40px;
+    }
+    /*discover end*/
+    /*book start*/
+	.book-button{
+		margin-left: 233px;
+	}
+	/*book end*/
+	/*b-card start*/
+	
+	/*b-card end*/
+	 /*social start*/
+	 .s-h1 {
+	     font-size: 70px;
+	 }
+    .s-p {
+    	font-size: 18px;
+        word-spacing: 0px;
+        letter-spacing: 0px;
+    }
+    /*social end*/
+    /*contact start*/
+    .contact-p {
+        font-size: 16px;
+    }
+    /*contact end*/
+
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*banner start*/
+	.box{
+		margin-left: 122px;
+		width: 700px;
+        margin-top: 85px;
+       margin-bottom: 90px;    
+       padding: 50px 0;
+   }
+	/*banner end*/
+	/*flavour start*/
+	.flavour-text p {
+	    font-size: 17px;
+	}
+	/*flavour end*/
+	/*india start*/
+	.india{
+		padding: 80px 0;
+	}
+	/*india end*/
+	/*traditional start*/
+	.traditional {
+	    padding: 35px 0 30px 0;
+	}
+	.t-h1 {
+	    margin-bottom: 16px;
+	}
+	.t-p {	    
+	    font-size: 18px;
+	    margin-bottom: 20px;
+	}
+	.t-list1 {
+	    margin-bottom: 20px;
+	}
+	/*traditional end*/
+	/*book start*/
+	.book-button{
+		margin-left: 315px;
+	}
+	/*book end*/
+    /*social start*/
+    .s-p {
+        word-spacing: 2px;
+        letter-spacing: 2px;
+    }
+    /*social end*/
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+}
+	
